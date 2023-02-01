@@ -1,0 +1,1 @@
+void makeMove (char *guess, int *level, int *moves, char *word_A, char *word_B, char *word_C);
